@@ -1,0 +1,17 @@
+.german-flag-black {
+    position: top;
+    height: 250px;
+    background-color: black;
+}
+
+.german-flag-red {
+    position: middle;
+    height: 250px;
+    background-color: red;
+}
+
+.german-flag-gold {
+    position: bottom;
+    height: 250px;
+    background-color: gold;
+}
